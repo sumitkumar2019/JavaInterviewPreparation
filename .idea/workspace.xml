@@ -188,11 +188,11 @@
       </method>
     </configuration>
     <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.collections.ListExample" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.collections.list.ListExample" />
       <module name="JavaInterviewPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.java.preparation.collections.*" />
+          <option name="PATTERN" value="com.sky.java.preparation.collections.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +201,11 @@
       </method>
     </configuration>
     <configuration name="ListSortExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.collections.sort.ListSortExample" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.collections.list.sort.ListSortExample" />
       <module name="JavaInterviewPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.java.preparation.collections.sort.*" />
+          <option name="PATTERN" value="com.sky.java.preparation.collections.list.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
