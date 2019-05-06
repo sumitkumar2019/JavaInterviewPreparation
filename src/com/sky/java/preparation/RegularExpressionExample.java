@@ -38,5 +38,27 @@ public class RegularExpressionExample {
         System.out.println(Pattern.matches("[MS][a-z]{5}","Monica"));
         System.out.println(Pattern.matches("[MS][a-z]{5}","Sameer"));
         System.out.println(Pattern.matches("[MS][a-z]{5}","Amit"));
+
+        System.out.println(Pattern.matches("[xyz]?","x"));
+        System.out.println(Pattern.matches("[xyz]?","xxxyyyyzz"));
+        System.out.println(Pattern.matches("[xyz]?","yyyyll"));
+        System.out.println(Pattern.matches("[xyz]?","y"));
+
+        System.out.println(Pattern.matches("[xyz]+","x"));
+        System.out.println(Pattern.matches("[xyz]+","xxxyyyyzz"));
+        System.out.println(Pattern.matches("[xyz]+","yyyyll"));
+        System.out.println(Pattern.matches("[xyz]+","y"));
+
+        System.out.println(Pattern.matches("[xyz]*","xyyzx"));
+        System.out.println(Pattern.matches("[xyz]*","xyyzz"));
+
+        System.out.println(Pattern.matches("\\d","a1")); //check sequence contains any digit
+        System.out.println(Pattern.matches("\\d","1"));
+
+        System.out.println(Pattern.matches("\\D","a1"));//check sequence contains any character
+        System.out.println(Pattern.matches("\\D","1"));
+        System.out.println(Pattern.matches("\\D","a"));
+
+        System.out.println(Pattern.matches("[a-zA-Z0-9]{6}","monica"));
     }
 }
