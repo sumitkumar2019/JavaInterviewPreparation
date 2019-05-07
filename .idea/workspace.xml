@@ -2,36 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0676c47d-951e-4c2b-be04-6195a3c1512d" name="Default Changelist" comment="Var args example">
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/AnagramStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/ArmStrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/BinaryNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/CommonElementsBetweenArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/CountNumberOfVowelsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/DuplicateNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/DuplicatesInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/FactorOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/FloydTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/MissingNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/PrintNumbersWithoutLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/SecondLargestElementInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/SortMapByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/SumOfDigitNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/SwapNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/ThreadDeadlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/collections/Map/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/userinput/BufferedReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/userinput/ScannerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/AnagramStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/ArmStrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/BinaryNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/CommonElementsBetweenArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/CountNumberOfVowelsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/DuplicateNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/DuplicatesInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/EvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/FactorOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/FloydTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/MissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/PrintNumbersWithoutLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/SecondLargestElementInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/SortMapByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/SumOfDigitNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/SwapNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/ThreadDeadlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/TypeInferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/UnderscoreInNumericLiteralsExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/AnnonymousInnerClassExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/AnnonymousInnerClassExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/ArrayExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/BoxingExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/CLassVsAbstractClassVsIterfaceExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/DeamonThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/DefaultConstructorLimitationCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/DefaultExceptionHandlerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/FinalModifierExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/FinalizeMethodExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/H.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/Hi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/LocalVariableCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/LocalVariableModifierCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/NonStaticVariableInInterfaceCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/OverloadingMainMethodCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/StaticVariableCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaInterviewPreparation/com/sky/java/preparation/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sky/java/preparation/java5Features/generics/MyCustomList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sky/java/preparation/java5Features/generics/MyCustomList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,32 +71,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/VarArgsExample.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/TypeInferenceExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/userinput/BufferedReaderExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="11" column="36" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="11" selection-end-column="36" />
+            <state relative-caret-position="183">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#279#301#0" expanded="true" />
+                <element signature="e#392#400#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/userinput/ScannerExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -101,15 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/CLassVsAbstractClassVsIterfaceExample.java" />
-        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/DeamonThread.java" />
-        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/DefaultExceptionHandlerExample.java" />
-        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/FinalModifierExample.java" />
-        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/FinalizeMethodExample.java" />
-        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/LocalVariableCheck.java" />
-        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/generics/MyCustomList.java" />
-        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/generics/MyCustomList2.java" />
-        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/generics/GenericsExample.java" />
         <option value="$PROJECT_DIR$/src/com/sky/java/preparation/collections/ListExample.java" />
         <option value="$PROJECT_DIR$/src/com/sky/java/preparation/StrictFpExample.java" />
         <option value="$PROJECT_DIR$/src/com/sky/java/preparation/collections/sort/Student.java" />
@@ -152,6 +150,15 @@
         <option value="$PROJECT_DIR$/src/com/sky/java/preparation/VarArgsExample.java" />
         <option value="$PROJECT_DIR$/src/com/sky/java/preparation/userinput/BufferedReaderExample.java" />
         <option value="$PROJECT_DIR$/src/com/sky/java/preparation/userinput/ScannerExample.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/BinaryLiteralsExample.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/SwitchWithStringExample.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/TryWithResourcesManagementExample.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/TryWithCustomResourcesManagementExample.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/HandlingMumtipleExceptonExample.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/HandlingMultipleExceptonExample.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/message/Message.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/java5Features/generics/MyCustomList.java" />
+        <option value="$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/TypeInferenceExample.java" />
       </list>
     </option>
   </component>
@@ -190,7 +197,14 @@
               <item name="JavaInterviewPreparation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="preparation" type="462c0819:PsiDirectoryNode" />
-              <item name="userinput" type="462c0819:PsiDirectoryNode" />
+              <item name="java5Features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaInterviewPreparation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaInterviewPreparation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="preparation" type="462c0819:PsiDirectoryNode" />
+              <item name="java7Features" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,6 +223,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sky.java.preparation.java7Features" />
       <recent name="com.sky.java.preparation.basic.programs" />
       <recent name="com.sky.java.preparation.collections.sort" />
       <recent name="com.sky.java.preparation.generics" />
@@ -227,13 +242,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScannerExample">
-    <configuration name="AnnotationExmple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.annotations.AnnotationExmple" />
+  <component name="RunManager" selected="Application.HandlingMultipleExceptonExample">
+    <configuration name="BinaryLiteralsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.java7Features.BinaryLiteralsExample" />
       <module name="JavaInterviewPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.java.preparation.annotations.*" />
+          <option name="PATTERN" value="com.sky.java.preparation.java7Features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,25 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BufferedReaderExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.userinput.BufferedReaderExample" />
+    <configuration name="HandlingMultipleExceptonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.java7Features.HandlingMultipleExceptonExample" />
       <module name="JavaInterviewPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.java.preparation.userinput.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EnumExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.Enumeration.EnumExample" />
-      <module name="JavaInterviewPreparation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.sky.java.preparation.Enumeration.*" />
+          <option name="PATTERN" value="com.sky.java.preparation.java7Features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,11 +270,11 @@
       </method>
     </configuration>
     <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.userinput.ScannerExample" />
+      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.java5Features.userinput.ScannerExample" />
       <module name="JavaInterviewPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.java.preparation.userinput.*" />
+          <option name="PATTERN" value="com.sky.java.preparation.java5Features.userinput.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,12 +282,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarArgsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.VarArgsExample" />
+    <configuration name="SwitchWithStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.java7Features.SwitchWithStringExample" />
       <module name="JavaInterviewPreparation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sky.java.preparation.*" />
+          <option name="PATTERN" value="com.sky.java.preparation.java7Features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryWithCustomResourcesManagementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sky.java.preparation.java7Features.TryWithCustomResourcesManagementExample" />
+      <module name="JavaInterviewPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sky.java.preparation.java7Features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HandlingMultipleExceptonExample" />
+        <item itemvalue="Application.TryWithCustomResourcesManagementExample" />
+        <item itemvalue="Application.SwitchWithStringExample" />
+        <item itemvalue="Application.BinaryLiteralsExample" />
         <item itemvalue="Application.ScannerExample" />
-        <item itemvalue="Application.BufferedReaderExample" />
-        <item itemvalue="Application.VarArgsExample" />
-        <item itemvalue="Application.EnumExample" />
-        <item itemvalue="Application.AnnotationExmple" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +333,7 @@
       <workItem from="1556966905366" duration="326000" />
       <workItem from="1557005177346" duration="14032000" />
       <workItem from="1557041523770" duration="9050000" />
-      <workItem from="1557132867400" duration="10996000" />
+      <workItem from="1557132867400" duration="21533000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1556967147974</created>
@@ -411,11 +426,46 @@
       <option name="project" value="LOCAL" />
       <updated>1557182480492</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="User Input example">
+      <created>1557183186037</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1557183186037</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Refactored practice example : java version wise + java 7 features example added">
+      <created>1557188390567</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1557188390567</updated>
+    </task>
+    <task id="LOCAL-00016" summary="String in Switch Example">
+      <created>1557193113876</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1557193113876</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Try With Resource Management">
+      <created>1557265812094</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1557265812094</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Try wth multiple resources">
+      <created>1557266832684</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1557266832684</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47628000" />
+    <option name="totallyTimeSpent" value="58165000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,7 +489,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.17369728" side_tool="true" weight="0.25506073" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32037038" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -478,188 +528,109 @@
     <MESSAGE value="Annotations and Enumeration Example" />
     <MESSAGE value="Var args example" />
     <MESSAGE value="Var args example + static import added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Var args example + static import added" />
+    <MESSAGE value="User Input example" />
+    <MESSAGE value="Refactored practice example : java version wise + java 7 features example added" />
+    <MESSAGE value="String in Switch Example" />
+    <MESSAGE value="Try With Resource Management" />
+    <MESSAGE value="Try wth multiple resources" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try wth multiple resources" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/collections/list/sort/ListSortExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/collections/list/sort/StudentAscendingComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/SwapNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/ReverseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/ReverseNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/SumOfDigitNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/SecondLargestElementInJava.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/SortMapByValue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/PrintNumbersWithoutLoop.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/MissingNumberInArray.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/CommonElementsBetweenArrays.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/DuplicateNumberInArray.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/ThreadDeadlock.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/FactorOfNumber.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/SecondLargestElementInJava.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/PrintNumbersWithoutLoop.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/MissingNumberInArray.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/DuplicateNumberInArray.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/Factorial.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/Factorial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/DuplicatesInString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/DuplicatesInString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/BinarySearch.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/CountNumberOfVowelsInString.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/CountNumberOfVowelsInString.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/EvenOrOdd.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/EvenOrOdd.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/DefaultExceptionHandlerExample.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/DefaultExceptionHandlerExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/FinalModifierExample.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/FinalModifierExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/FinalizeMethodExample.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/FinalizeMethodExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/LocalVariableModifierCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/LocalVariableModifierCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/NonStaticVariableInInterfaceCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/NonStaticVariableInInterfaceCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/OverloadingMainMethodCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/OverloadingMainMethodCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/StaticVariableCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/StaticVariableCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="51" selection-start-line="1" selection-start-column="51" selection-end-line="1" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/StrictFpExample.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/StrictFpExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/DeamonThread.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/DeamonThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/BoxingExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/ArrayExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -670,7 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/LocalVariableCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/LocalVariableCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
@@ -694,7 +665,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/RegularExpressionExample.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/RegularExpressionExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
@@ -704,42 +675,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/AnagramStrings.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/AnagramStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/ArmStrongNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/ArmStrongNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/BinaryNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/BinaryNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/FloydTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/FloydTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/FibonacciSeries.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/FibonacciSeries.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basic/programs/PerfectNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/basicPrograms/PerfectNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
@@ -753,21 +724,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/ChainedExceptionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/annotations/AnnotationExmple.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java5Features/annotations/AnnotationExmple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/Enumeration/EnumExample.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java5Features/Enumeration/EnumExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="35" column="49" selection-start-line="35" selection-start-column="49" selection-end-line="35" selection-end-column="49" />
@@ -778,14 +742,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/VarArgsExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/userinput/BufferedReaderExample.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java5Features/userinput/BufferedReaderExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
           <caret line="11" column="36" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="11" selection-end-column="36" />
@@ -795,10 +752,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/userinput/ScannerExample.java">
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java5Features/userinput/ScannerExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java5Features/BoxingExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java5Features/VarArgsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/AbstractClassExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/AnnonymousInnerClassExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/ArrayExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/ChainedExceptionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/JavaBasicsTill4/CLassVsAbstractClassVsIterfaceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/BinaryLiteralsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/UnderscoreInNumericLiteralsExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/SwitchWithStringExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/TryWithCustomResourcesManagementExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/TryWithResourcesManagementExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="2544" column="26" selection-start-line="2544" selection-start-column="26" selection-end-line="2544" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/message/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/HandlingMultipleExceptonExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java5Features/generics/MyCustomList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sky/java/preparation/java7Features/TypeInferenceExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#279#301#0" expanded="true" />
+            <element signature="e#392#400#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
