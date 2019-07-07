@@ -1,6 +1,6 @@
-package com.sky.java.preparation.Serialization;
+package com.sky.java.preparation.JavaBasicsTill4.Serialization;
 
-import com.sky.java.preparation.Serialization.object.Person;
+import com.sky.java.preparation.JavaBasicsTill4.Serialization.object.Person;
 
 import java.io.*;
 

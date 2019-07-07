@@ -1,4 +1,4 @@
-package com.sky.java.preparation.Serialization.object;
+package com.sky.java.preparation.JavaBasicsTill4.Serialization.object;
 
 import java.io.Serializable;
 

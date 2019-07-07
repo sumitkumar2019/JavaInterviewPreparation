@@ -1,4 +1,4 @@
-package com.sky.java.preparation;
+package com.sky.java.preparation.JavaBasicsTill4;
 
 public final class FinalVariableCheck {
     //final int x; //Compile time Error here
