@@ -1,4 +1,4 @@
-package com.sky.java.preparation.collections.list.sort;
+package com.sky.java.preparation.JavaBasicsTill4.collections.list.sort;
 
 public class Student implements Comparable<Student>{
 

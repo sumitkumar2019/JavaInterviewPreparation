@@ -1,4 +1,4 @@
-package com.sky.java.preparation.collections.queue;
+package com.sky.java.preparation.JavaBasicsTill4.collections.queue;
 
 import java.util.Comparator;
 import java.util.List;

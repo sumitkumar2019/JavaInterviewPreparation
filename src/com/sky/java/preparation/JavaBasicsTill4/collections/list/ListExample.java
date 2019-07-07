@@ -1,4 +1,4 @@
-package com.sky.java.preparation.collections.list;
+package com.sky.java.preparation.JavaBasicsTill4.collections.list;
 
 import java.util.*;
 
